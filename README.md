@@ -1,7 +1,6 @@
 # uav
 
 ## tools to use
-1. Autodesk AutoCAD 2008
-
-## Disclaimer
-1. before you push a commit, you need to clean repository with clean script.
+1. Autodesk AutoCAD 2007 (2008)
+2. Dev-C++
+3. Visual C++ Express 2010
